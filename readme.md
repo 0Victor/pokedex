@@ -1,3 +1,3 @@
 ## Projeto Pokedex
 
-<img src="print.png" alt="print">
+<img src="./images/print.png" alt="print">
